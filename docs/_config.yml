@@ -1,3 +1,30 @@
 theme: jekyll-theme-modernist
 title: Y-TZP Zirconia Bonding Study
 description: Evaluation of Bonding Effect of Different Surface Treatments on Yttria-Tetragonal Zirconia Polycrystal
+
+# Table of Contents
+toc:
+  - title: "Abstract"
+  - title: "Introduction"
+  - title: "1. Test Materials"
+    subitems:
+      - title: "1.1 Lithium-Disilicate-Particle Coating"
+      - title: "1.2 Zirconia-Slurry Coating"
+  - title: "2. Study Design"
+    subitems:
+      - title: "2.1 Experimental Groups"
+      - title: "2.2 Experimental Protocol"
+  - title: "3. Materials and Methods"
+    subitems:
+      - title: "3.1 Specimen Preparation"
+      - title: "3.2 Contact Angle Measurements"
+      - title: "3.3 Shear Bond Strength Testing"
+  - title: "4. Results"
+    subitems:
+      - title: "4.1 Surface Energy and Wettability"
+      - title: "4.2 Shear Bond Strength"
+      - title: "4.3 Light Microscopy"
+      - title: "4.4 SEM/EDS Analysis"
+  - title: "5. Discussion"
+  - title: "Summary"
+  - title: "Conclusion"

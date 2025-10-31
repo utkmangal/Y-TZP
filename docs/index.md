@@ -1,4 +1,4 @@
-# Evaluation of Bonding Effect of Different Surface Treatments on Yttria-Tetragonal Zirconia Polycrystal (Y-TZP) to Resin Cements
+# Evaluation of Bonding Effect of Different Surface Treatments on Yttria-Tetragonal Zirconia Polycrystal (Y-TZP)
 
 ## Abstract
 
