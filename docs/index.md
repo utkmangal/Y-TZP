@@ -200,7 +200,19 @@ Following surface treatment and primer application, resin cement rods (Dou Link)
 - Elemental composition analysis
 - Evidence of surface treatment effectiveness
 
-*Original PDF contains detailed SEM images and EDS spectra for each experimental group*
+### 4.5 Region of Interest (ROI) Analysis
+
+![ROI Analysis - Figure 9](images/figure_9.png)
+
+**Fig.9.** Region of Interest (ROI) analysis showing detailed examination of bonding interface zones.
+
+![ROI Analysis - Figure 10](images/figure_10.png)
+
+**Fig.10.** High-magnification ROI analysis of substrate-bonding interface characteristics.
+
+![ROI Analysis - Figure 11](images/figure_11.png)
+
+**Fig.11.** Comparative ROI analysis across different treatment groups highlighting interfacial morphology and bonding quality.
 
 ---
 
