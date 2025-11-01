@@ -202,17 +202,59 @@ Following surface treatment and primer application, resin cement rods (Dou Link)
 
 ### 4.5 Region of Interest (ROI) Analysis
 
+#### 4.5.1 Bonding Surface Elemental Distribution (Zone 1)
+
 ![ROI Analysis - Figure 9](images/figure_9.png)
 
-**Fig.9.** Region of Interest (ROI) analysis showing detailed examination of bonding interface zones.
+**Fig.9.** Elemental composition heatmap of the bonding surface (Zone 1) across all experimental groups showing relative concentrations of key elements.
+
+**Elemental distribution analysis:**
+
+The heatmap analysis of Zone 1 (bonding surface) reveals distinct elemental signatures across the five groups:
+
+- **Group 1 (Zr-AOP/M):** High zirconium (Zr) content with aluminum (Al) traces from grit-blasting, showing characteristic Y-TZP surface with mechanical roughening effects
+- **Group 2 (LD-HF/S):** Dominant silicon (Si) and oxygen (O) signals consistent with lithium disilicate glass-ceramic composition, with minimal zirconium presence
+- **Group 3 (Zr-ZP/M):** Elevated zirconium content with carbon (C) signatures from the nanoparticle-containing slurry coating, indicating successful surface modification
+- **Group 4 (Zr-LiP-HF/S):** Strong silicon (Si) signal indicating lithium disilicate coating layer on zirconia substrate, with reduced zirconium signal compared to Groups 1 and 3
+- **Group 5 (Zr-LiP-HF/SM):** Similar silicon-rich profile to Group 4, confirming consistent lithium-disilicate-particle coating across both LiSi-treated groups
+
+**Key findings:** Groups 4 and 5 demonstrate successful transformation of the zirconia surface into a silica-rich bonding interface, enabling silane coupling chemistry similar to the lithium disilicate control (Group 2).
+
+#### 4.5.2 Substrate-Bonding Interface Composition (Zone 2)
 
 ![ROI Analysis - Figure 10](images/figure_10.png)
 
-**Fig.10.** High-magnification ROI analysis of substrate-bonding interface characteristics.
+**Fig.10.** Elemental composition heatmap of the substrate-bonding interface (Zone 2) showing transition zone characteristics and gradient distributions.
+
+**Interface zone analysis:**
+
+The Zone 2 heatmap captures the critical transition region between the treated substrate and the bonding layer:
+
+- **Group 1 (Zr-AOP/M):** Sharp interface with minimal elemental gradation, showing direct contact between zirconia and resin cement with aluminum particle embedment
+- **Group 2 (LD-HF/S):** Gradual silicon and oxygen distribution indicating effective HF etching and surface dissolution, creating microretentive topography
+- **Group 3 (Zr-ZP/M):** Zirconium-rich interface with carbon distribution, demonstrating the reticulated porous structure from sintered nanoparticle coating
+- **Group 4 (Zr-LiP-HF/S):** Clear silicon gradient from coating to substrate, with intermediate oxygen levels indicating crystalline lithium disilicate phase at the interface
+- **Group 5 (Zr-LiP-HF/SM):** Enhanced phosphorus (P) signal at the interface zone from 10-MDP primer, overlaying the silicon-rich lithium disilicate coating layer
+
+**Key findings:** Group 5 demonstrates the most chemically complex interface with multiple bonding mechanisms (siloxane from silane and phosphate ester from 10-MDP), correlating with superior shear bond strength results. The dual chemistry creates a robust interfacial zone with enhanced chemical adhesion.
+
+#### 4.5.3 Treated Substrate Surface Characterization (Zone 3)
 
 ![ROI Analysis - Figure 11](images/figure_11.png)
 
-**Fig.11.** Comparative ROI analysis across different treatment groups highlighting interfacial morphology and bonding quality.
+**Fig.11.** Elemental composition heatmap of the treated substrate surface (Zone 3) showing post-treatment surface modifications and compositional changes.
+
+**Substrate surface modifications:**
+
+Zone 3 analysis reveals the extent of surface treatment penetration into the substrate material:
+
+- **Group 1 (Zr-AOP/M):** Predominantly zirconia composition with aluminum contamination from grit-blasting particles embedded in surface valleys, minimal chemical modification
+- **Group 2 (LD-HF/S):** Altered surface layer with calcium (Ca) and lithium (Li) depletion due to HF dissolution, leaving silicon-rich residual network structure
+- **Group 3 (Zr-ZP/M):** Modified zirconia surface with integrated carbon and additional zirconium from the slurry coating, creating a nanostructured porous layer
+- **Group 4 (Zr-LiP-HF/S):** Crystallized lithium disilicate layer firmly bonded to underlying zirconia substrate, with clear compositional boundary between coating and base material
+- **Group 5 (Zr-LiP-HF/SM):** Similar lithium disilicate coating structure to Group 4, with additional phosphorus penetration from 10-MDP primer into surface irregularities created by HF etching
+
+**Key findings:** The lithium-disilicate-particle coating (Groups 4 and 5) successfully creates a stable, silica-rich surface layer that fundamentally transforms the bonding characteristics of Y-TZP zirconia. Unlike mechanical treatments (Group 1) or slurry coatings (Group 3), the crystallized lithium disilicate layer provides true chemical bonding sites for silane coupling agents. Group 5's additional 10-MDP treatment creates a hybrid interface that combines both siloxane and phosphate ester bonding mechanisms, explaining its superior performance in shear bond strength testing.
 
 ---
 
